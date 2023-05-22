@@ -1,4 +1,5 @@
-# Mota-Adventure
+# 魔塔探险：拯救之旅
+# 游戏说明：
 # 游戏代码参考：https://github.com/oscarcx123/MagicTower-Python
 # 游戏素材参考：http://www.4399.com/flash/526_1.htm
 # 运行环境：
